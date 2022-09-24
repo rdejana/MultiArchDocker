@@ -205,3 +205,7 @@ Linux a49e4cb9b25e 5.10.104-linuxkit #1 SMP Thu Mar 17 17:08:06 UTC 2022 s390x s
 Hopefully this will get you started with using multiple architectures with Docker Desktop and macOS.
 
 Enjoy!
+
+# Multi Arch with Docker Engine
+https://hub.docker.com/r/tonistiigi/binfmt/tags and https://www.reddit.com/r/docker/comments/ray2wc/comment/hnluex8/?context=1
+
